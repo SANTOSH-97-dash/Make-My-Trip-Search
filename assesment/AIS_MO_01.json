@@ -66,7 +66,7 @@
       }
     ],
     "error_out": "Select New Delhi as the arrival location",
-    "hint": "TestCase 2: Ensure that you are sending del as the departure location"
+    "hint": "TestCase 2: Ensure that you are sending del as the arrival location"
   },
   {
     "description": "TestCase 2: Get the details of flight from Bangalore to New Delhi.Select the Correct Date",
